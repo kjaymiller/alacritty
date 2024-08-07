@@ -10,7 +10,8 @@ Where are the main editable files? Is there a dist/build folder that should be i
 
 What build system/parameters does this use?
 
-@run(./build command)
+@run(brew install alacritty)
+@run(gh repo clone catppuccin/alacritty ../catppucin-alacritty)
 
 ## Deploy
 
