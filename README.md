@@ -1,1 +1,1 @@
-# Jay's Alacritty
+# Jay's Alacritty Config
